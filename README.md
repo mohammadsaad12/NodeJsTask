@@ -11,6 +11,7 @@ step 1 . after downloading the file in respective folder
 step 2 . first run the cammand     npm init  
          afer that   
          run this cammand          npm i express mysql cors body-parser --save
+         
          this will install node modules and npm packages .
          
          
