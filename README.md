@@ -3,7 +3,7 @@ Hello I am Mohammad Saad Ejaz Ahmad Ansari
 I want to share my NodeJsTask
  
 
-Steps for running the file
+Steps for Setup and run the file
 
 step 1 . after downloading the file in respective folder
          open the cammand prompt with folder path.
