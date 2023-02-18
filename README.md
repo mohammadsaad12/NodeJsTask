@@ -18,7 +18,7 @@ step 2 . first run the cammand     npm init
 step 3 . now run the cammand node server.js to start the server.
          now your appplication is working.
          
-step 4 . open the taskdb file in your mySql workbench to see the database and save it once
+step 4 . open the taskdb file in your mySql workbench and select all and fire one time to see the database and save it once
 
 
 step 5 . now to check the API's import the postman file into postman which is present inside the folder postmantest 
